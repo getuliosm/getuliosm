@@ -1,38 +1,49 @@
-# Olá, eu sou o Getúlio Silva Maciel! 👋
+<!-- HEADER BANNER START -->
+# <img src="https://raw.githubusercontent.com/kiran1689/github-profile-readme/main/assets/banner_hello_world_light.png" alt="Olá Mundo" width="100%">
+<!-- HEADER BANNER END -->
 
-Formado em Análise e Desenvolvimento de Sistemas (ADS). Estou em transição de carreira, consolidando meus conhecimentos técnicos e práticos para atuar no desenvolvimento de software e soluções tecnológicas. 
+<!-- INTRO START -->
+## 👋 Eu sou o GETÚLIO!
 
-Atualmente focado em aprimorar minhas habilidades em desenvolvimento backend com Python, integração com Inteligências Artificiais, automação de processos e desenvolvimento web.
+**Análise de Sistemas & Dev (ADS) | (Backend Developer (Python) 🐍 / Entusiasta de IA / Automação de Processos ⚙️ / Web Dev)**
 
----
+Sou um ex-aluno DIO & Bradesco focado em criar soluções robustas com Python, integrando com IAs, e automatizando fluxos de trabalho no Trello e outros ambientes. Atualmente, explorando novas tecnologias e construindo projetos de impacto.
+<!-- INTRO END -->
 
+<!-- BIO START -->
+- 🍃 **EcoTrip - Calculadora de Carbono:** Desenvolvi uma ferramenta web interativa (HTML, CSS, JS) para conscientização ecológica. (Veja o projeto abaixo!)
+- 🤖 **Agente Organizador IA:** Criei um sistema Python que automatiza organização de arquivos e se integra com a API do Trello.
+- 💼 **Mentor em Transição de Carreira (Em breve):** Dedicado a ajudar outros profissionais a migrarem para a tecnologia.
+- ✍️ Escrevo sobre minhas experiências no DEV.to
+- 🤝 Colaborador em projetos Open-Source
+<!-- BIO END -->
+
+<!-- TECH STACK START -->
 ## 🚀 Tecnologias e Ferramentas
 
-- **Linguagens:** Python, JavaScript
-- **Desenvolvimento Web & APIs:** HTML5, CSS3, Integração com IA
-- **Controle de Versão:** Git, GitHub
-- **Ambientes de Desenvolvimento:** VS Code
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,git,github,vscode,html,css" alt="My Tech Stack">
+</p>
+<!-- TECH STACK END -->
 
----
+<!-- PROJECTS VIEW START -->
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/getuliosm/ecotrip">
+        <img src="https://raw.githubusercontent.com/kiran1689/github-profile-readme/main/assets/confetti-owl.png" alt="Confetti Owl" height="150px">
+      </a>
+    </td>
+    <td>
+      <h3>🍃 EcoTrip: Calculando...</h3>
+      <p>Este ícone te leva direto para o repositório do EcoTrip. Se quiser rodar a calculadora, use o link do GitHub Pages (em breve)!</p>
+    </td>
+  </tr>
+</table>
+<!-- PROJECTS VIEW END -->
 
-## 📜 Certificações em Destaque
-
-- **Bootcamp Python é Python, né?** – DIO & Luiza Labs
-- **Formações Técnicas** – Fundação Bradesco
-- **Graduação em Análise e Desenvolvimento de Sistemas** (ADS)
-
----
-
-## 🛠️ Projetos em Destaque
-
-🤖 **[Agente Organizador IA](https://github.com/getuliosm/agente-organizador-ia)**
-Agente de Inteligência Artificial desenvolvido em Python para organização automatizada de arquivos e integração com a API do Trello para automação de fluxos de trabalho. Desenvolvido como desafio prático na DIO.
-
-💼 **[IA Mentor de Carreira](https://github.com/getuliosm/IA_Mentor_de_Carreira)**
-Aplicação baseada em Inteligência Artificial focada em orientação profissional e mapeamento de competências para carreiras em tecnologia.
-
-🍃 **[EcoTrip - Calculadora de Carbono](https://github.com/getuliosm/ecotrip)**
-Aplicação web interativa (HTML, CSS e JavaScript) desenvolvida para calcular a pegada de carbono emitida em viagens, promovendo a conscientização ecológica.
-
-🧠 **[Mini Guia de Estudos - NotebookLM](https://github.com/getuliosm/miniguia-estudos-notebooklm)**
-Repositório contendo documentação e guias práticos focados na utilização da ferramenta NotebookLM para estruturação de estudos.
+<!-- VIEWS START -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=getuliosm&color=purple" alt="Views do perfil">
+</p>
+<!-- VIEWS END -->
