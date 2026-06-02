@@ -26,7 +26,7 @@ Agente de Inteligência Artificial desenvolvido em Python para organização aut
 💼 **[IA Mentor de Carreira](https://github.com/getuliosm/IA_Mentor_de_Carreira)**
 Aplicação baseada em Inteligência Artificial focada em orientação profissional e mapeamento de competências para o mercado tech.
 
-🍃 **[EcoTrip - Calculadora de Carbono](https://github.com/getuliosm/ecotrip)**
+🍃 **[EcoTrip - Calculadora de Carbono](https://getuliosm.github.io/ecotrip/)**
 Aplicação web interativa desenvolvida com HTML, CSS e JavaScript para calcular a pegada de carbono emitida em viagens, unindo desenvolvimento front-end com conscientização ecológica.
 
 🧠 **[Mini Guia de Estudos - NotebookLM](https://github.com/getuliosm/miniguia-estudos-notebooklm)**
